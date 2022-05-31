@@ -9,17 +9,15 @@ export const organigrama =
 				[
 					{
 						member: "Rafael Hueso",
+						email: "rafael.hueso.ext@quintasenergy.com",
 						position: "CIO",
-						image: "url/placeholder.png",
-						level: 1
 					},
 				],
 				[
 					{
 						member: "Santiago Fernández",
+						email: "santiago.fernandez.ext@quintasenergy.com",
 						position: "Technical Manager",
-						image: "url/placeholder.png",
-						level: 2
 					}
 				]
 			],
@@ -32,23 +30,20 @@ export const organigrama =
 						[
 							{
 								member: "Juan Luis Cobo",
+								email: "juanluis.cobo@quintasenergy.com",
 								position: "Infrastructure Senior Technician",
-								image: "url/placeholder.png",
-								level: 1
 							},
 						],
 						[
 							{
 								member: "Iván Paredes",
+								email: "ivan.paredes.ext@quintasenergy.com",
 								position: "Infrastructure Technician",
-								image: "url/placeholder.png",
-								level: 2,
 							},
 							{
 								member: "Raúl Fernández",
+								email: "raul.fernandez.ext@quintasenergy.com",
 								position: "Infrastructure Technician",
-								image: "url/placeholder.png",
-								level: 2
 							}
 						]
 					],
@@ -68,37 +63,32 @@ export const organigrama =
 								[
 									{
 										member: "Fidel Mystal",
+										email: "fidel.mystal@quintasenergy.com",
 										position: "DevOps Manager | IT",
-										image: "url/placeholder.png",
-										level: 1
 									},
 								],
 								[
 									{
-										member: "Pedro Frutos",
+										member: "Nacho Cavero",
+										email: "ignacio.cavero@quintasenergy.com",
 										position: "Senior Full Stack Developer | IT",
-										image: "url/placeholder.png",
-										level: 2
 									},
 									{
-										member: "Nacho Cavero",
+										member: "Pedro Frutos",
+										email: "pedro.frutos@quintasenergy.com",
 										position: "Senior Full Stack Developer | IT",
-										image: "url/placeholder.png",
-										level: 2
 									},
 								],
 								[
 									{
 										member: "New Member 1",
+										email: "ignacio.cavero@quintasenergy.com",
 										position: "Senior Full Stack Developer | IT",
-										image: "url/placeholder.png",
-										level: 3
 									},
 									{
 										member: "New Member 2",
+										email: "pedro.frutos@quintasenergy.com",
 										position: "Senior Full Stack Developer | IT",
-										image: "url/placeholder.png",
-										level: 3
 									}
 								]
 							],
@@ -112,15 +102,15 @@ export const organigrama =
 								[
 									{
 										member: "Javier Hurtado",
+										email: "javier.hurtado@quintasenergy.com",
 										position: "Head of Asset & Internal Process Management Platform | IT",
-										image: "url/placeholder.png"
 									},
 								],
 								[
 									{
 										member: "Javier Muñoz",
+										email: "javier.munoz@quintasenergy.com",
 										position: "Developer of Asset & Internal Process Management Platform | IT",
-										image: "url/placeholder.png"
 									}
 								]
 							],
@@ -134,15 +124,15 @@ export const organigrama =
 								[
 									{
 										member: "Ramón González",
+										email: "ramon.gonzalez@quintasenergy.com",
 										position: "FinTech Manaager | IT",
-										image: "url/placeholder.png"
 									},
 								],
 								[
 									{
 										member: "Nacho Tizón",
+										email: "nacho.tizon@quintasenergy.com",
 										position: "FinTech Technician | IT",
-										image: "url/placeholder.png"
 									}
 								]
 							],
@@ -156,15 +146,15 @@ export const organigrama =
 								[
 									{
 										member: "Noel Flores",
+										email: "noel.flores.ext@quintasenergy.com",
 										position: "Senior Front End Develper | IT",
-										image: "url/placeholder.png"
 									},
 								],
 								[
 									{
 										member: "Ernesto Valero",
+										email: "ernesto.valero@quintasenergy.com",
 										position: "Intern | IT",
-										image: "url/placeholder.png"
 									}
 								]
 							],
