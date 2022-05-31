@@ -1,7 +1,5 @@
-import { FC, useState } from "react";
+import { FC } from "react";
 import { organigrama } from "../organigrama";
-
-console.log("organigrama", organigrama);
 
 const RenderMember = (props: any) => {
   return (
@@ -41,7 +39,6 @@ const RecursiveGroup = (props: any) => {
   return (
     <div className="flex w-full">
       {props.groups.map((item: any) => {
-        console.log("item", item);
         return <RenderGroup group={item} key={item.title} />;
       })}
     </div>
